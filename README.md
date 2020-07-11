@@ -7,7 +7,7 @@
   <br><br>
   <samp>
 My name is Md Solaiman Rathik . I am freelance Web Application Developer, computer geek & fun addicted. I'm specialized in Backend and as well as frontend development. A very stimulating and fun job that allows me to create new apps and to experiment with new languages. Oh ! Somedays ago fallen in love with VueJS
-     <br><br>Contact me on <a href="https://fb.com/md.rathik">Facebook</a> or <a href="mailto:mdrathik@gmail.com">Send an Email</a>
+     <br><br>Contact me on <a target="_blank" href="https://twitter.com/md_rathik">Twitter</a> or <a href="mailto:mdrathik@gmail.com">Send an Email</a>
   </samp>
 </p>
 
