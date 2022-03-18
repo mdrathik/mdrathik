@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Solaiman, a tech enthusiast who develop website 👨‍💻
+I'm Solaiman, a tech enthusiast 👨‍💻 
 
 I enjoy doing :computer: code , articles :books: and web apps :unicorn:
 
