@@ -5,16 +5,16 @@
 </p>
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/mdrathik/)">
+    <a target="_blank" href="https://www.linkedin.com/in/mdrathik">
         <img src="https://img.shields.io/badge/-solaiman-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/md.rathik">
+    <a target="_blank" href="https://instagram.com/mdrathik">
         <img src="https://img.shields.io/badge/-solaiman-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://x.com/mdrathik">
+    <a target="_blank" href="https://x.com/mdrathik">
         <img src="https://img.shields.io/badge/-@solaiman-03a57a?style=flat-square&labelColor=000000&logo=x" alt="x" />
     </a>
-    <a href="mailto:hello@rathik.dev">
+    <a target="_blank" href="mailto:hello@rathik.dev">
         <img src="https://img.shields.io/badge/-hello@rathik.dev-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
