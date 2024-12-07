@@ -3,9 +3,6 @@
 <p>
     Hi there! I'm <strong>Md Solaiman Hossain</strong> (alias <em>Rathik</em> at work), a software developer with over 7+ years of experience in full-stack and web development. I love solving problems, building innovative solutions, and staying updated with the latest technologies.
 </p>
-<p>
-    In my leisure time, I enjoy learning about CyberSecurity and exploring technologies that drive innovation. I'm passionate about creating impactful solutions and connecting with like-minded developers to build amazing things.
-</p>
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
     <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/mdrathik/)">
@@ -21,6 +18,8 @@
         <img src="https://img.shields.io/badge/-hello@rathik.dev-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
+
+
 
 <h3>Technologies 💻</h3>
 
@@ -61,3 +60,6 @@
 
 
 <p>I'm excited to connect and collaborate with developers who share a passion for technology and innovation.</p>
+
+<p>💗 to Listen songs a lot</p>
+ [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pfttrv3lq42srrytg5h7qwjtdm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pfttrv3lq42srrytg5h7qwjtdm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
