@@ -7,7 +7,6 @@
     In my leisure time, I enjoy learning about CyberSecurity and exploring technologies that drive innovation. I'm passionate about creating impactful solutions and connecting with like-minded developers to build amazing things.
 </p>
 
-<h3>Connect with me:</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
     <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/mdrathik/)">
         <img src="https://img.shields.io/badge/-solaiman-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
