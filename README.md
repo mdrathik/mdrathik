@@ -45,91 +45,19 @@
 </div>
 
 
-<h3>Pet Skills 🐾</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+### Pet Skills 🐾
 
-    <!-- Virtualization -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-VMware-%230A6E3D?style=flat-square&logo=vmware&logoColor=white" alt="VMware" style="margin-right: 10px;" />
-        <span>Virtualization (VMware, Hyper-V)</span>
-    </div>
-
-    <!-- AWS Cloud -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=aws&logoColor=white" alt="AWS" style="margin-right: 10px;" />
-        <span>AWS Cloud (EC2, S3)</span>
-    </div>
-
-    <!-- Project Management -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Trello-%23F4C300?style=flat-square&logo=trello&logoColor=white" alt="Trello" style="margin-right: 10px;" />
-        <span>Project Management (Trello, ClickUp)</span>
-    </div>
-
-    <!-- Google Workspace -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Google_Workspace-%23DB4437?style=flat-square&logo=google&logoColor=white" alt="Google Workspace" style="margin-right: 10px;" />
-        <span>Google Workspace + Data Engineering</span>
-    </div>
-
-    <!-- SEO -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-SEO-%23F7B731?style=flat-square&logo=searchengineland&logoColor=white" alt="SEO" style="margin-right: 10px;" />
-        <span>SEO Practices</span>
-    </div>
-
-    <!-- Learning -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Learning-%23FF5F1F?style=flat-square&logo=learn&logoColor=white" alt="Learning" style="margin-right: 10px;" />
-        <span>Continuous Learner</span>
-    </div>
-
-    <!-- Tech Enthusiast -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Tech_Enthusiast-%23A5ACAF?style=flat-square&logo=react&logoColor=white" alt="Tech Enthusiast" style="margin-right: 10px;" />
-        <span>Tech Enthusiast</span>
-    </div>
-
-    <!-- DevOps -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-DevOps-%236CC24C?style=flat-square&logo=jenkins&logoColor=white" alt="DevOps" style="margin-right: 10px;" />
-        <span>DevOps Practices (CI/CD)</span>
-    </div>
-
-    <!-- Team Leadership -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Leadership-%23F39C12?style=flat-square&logo=linkedin&logoColor=white" alt="Leadership" style="margin-right: 10px;" />
-        <span>Team Leadership & Collaboration</span>
-    </div>
-
-    <!-- Security -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-CyberSecurity-%23074e5f?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity" style="margin-right: 10px;" />
-        <span>Cybersecurity Best Practices</span>
-    </div>
-
-    <!-- Architecture Design -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Architecture_Design-%23227CDB?style=flat-square&logo=cloudflare&logoColor=white" alt="Architecture Design" style="margin-right: 10px;" />
-        <span>Cloud & Systems Architecture</span>
-    </div>
-
-    <!-- API Development -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-API_Development-%234CAF50?style=flat-square&logo=swagger&logoColor=white" alt="API Development" style="margin-right: 10px;" />
-        <span>API Development & Integration</span>
-    </div>
-
-    <!-- Business Strategy -->
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.shields.io/badge/-Business_Strategy-%2366BB6A?style=flat-square&logo=chart&logoColor=white" alt="Business Strategy" style="margin-right: 10px;" />
-        <span>Business Strategy & Innovation</span>
-    </div>
-
-</div>
-
-
-
+![Leadership](https://img.shields.io/badge/-Leadership-%23F39C12?style=flat-square&logo=people&logoColor=white) 
+![DevOps](https://img.shields.io/badge/-DevOps-%236CC24C?style=flat-square&logo=jenkins&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/-CyberSecurity-%23074e5f?style=flat-square&logo=shield&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=aws&logoColor=white)
+![API Development](https://img.shields.io/badge/-API_Development-%234CAF50?style=flat-square&logo=swagger&logoColor=white)
+![Project Management](https://img.shields.io/badge/-Project_Management-%23F4C300?style=flat-square&logo=trello&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/-Google_Workspace-%23DB4437?style=flat-square&logo=google&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-%23F7B731?style=flat-square&logo=searchengineland&logoColor=white)
+![Tech Enthusiast](https://img.shields.io/badge/-Tech_Enthusiast-%23A5ACAF?style=flat-square&logo=react&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-%230A6E3D?style=flat-square&logo=vmware&logoColor=white) 
+![Hyper-V](https://img.shields.io/badge/-Hyper_V-%230A6E3D?style=flat-square&logo=microsoft&logoColor=white)
 
 
 
