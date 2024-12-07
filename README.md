@@ -23,7 +23,6 @@
 
 <h3>Technologies 💻</h3>
 
-<h4>Frontend:</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js" alt="Vue.js" />
     <img src="https://img.shields.io/badge/-Alpine.js-black?style=flat-square&logo=alpine.js" alt="Alpine.js" />
@@ -33,7 +32,6 @@
     <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap" />
 </div>
 
-<h4>Backend:</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel" alt="Laravel" />
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
@@ -58,8 +56,7 @@
 ![Hyper-V](https://img.shields.io/badge/-Hyper_V-%230A6E3D?style=flat-square&logo=microsoft&logoColor=white)
 
 
+<br>
+<h4>😍 Music Addicted </h4>
 
-<p>I'm excited to connect and collaborate with developers who share a passion for technology and innovation.</p>
-
-<p>💗 to Listen songs a lot</p>
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfttrv3lq42srrytg5h7qwjtdm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfttrv3lq42srrytg5h7qwjtdm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfttrv3lq42srrytg5h7qwjtdm&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
