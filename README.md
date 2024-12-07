@@ -1,4 +1,4 @@
-<h2>Hi There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h2>
+<h2>Hi There! <img src="https://raw.githubusercontent.com/mdrathik/mdrathik/refs/heads/master/wave.gif" width="30"></h2>
 
 <p>
     Hi there! I'm <strong>Md Solaiman Hossain</strong> (alias <em>Rathik</em> at work), a software developer with over 7+ years of experience in full-stack and web development. I love solving problems, building innovative solutions, and staying updated with the latest technologies.
