@@ -49,7 +49,7 @@
 ![Project Management](https://img.shields.io/badge/-Project_Management-%23F4C300?style=flat-square&logo=trello&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-%23DB4437?style=flat-square&logo=google&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-%23F7B731?style=flat-square&logo=searchengineland&logoColor=white)
-![Writing](https://img.shields.io/badge/-Writing-%23A5ACAF?style=flat-square&logo=react&logoColor=white)
+![Writing](https://img.shields.io/badge/-Writing-%23A5ACAF?style=flat-square&logo=pen&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-%230A6E3D?style=flat-square&logo=vmware&logoColor=white) 
 ![Hyper-V](https://img.shields.io/badge/-Hyper_V-%230A6E3D?style=flat-square&logo=microsoft&logoColor=white)
 
