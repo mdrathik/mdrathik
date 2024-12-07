@@ -9,17 +9,17 @@
 
 <h3>Connect with me:</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/">
+    <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/mdrathik/)">
         <img src="https://img.shields.io/badge/-solaiman-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/">
+    <a href="https://instagram.com/md.rathik">
         <img src="https://img.shields.io/badge/-solaiman-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://medium.com/">
-        <img src="https://img.shields.io/badge/-@solaiman-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium" />
+    <a href="https://x.com/mdrathik">
+        <img src="https://img.shields.io/badge/-@solaiman-03a57a?style=flat-square&labelColor=000000&logo=x" alt="x" />
     </a>
     <a href="mailto:hello@rathik.dev">
-        <img src="https://img.shields.io/badge/-hello@rathik.dev-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+        <img src="https://img.shields.io/badge/-hello@rathik.dev-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
 
