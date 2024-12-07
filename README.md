@@ -62,4 +62,4 @@
 <p>I'm excited to connect and collaborate with developers who share a passion for technology and innovation.</p>
 
 <p>💗 to Listen songs a lot</p>
- [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pfttrv3lq42srrytg5h7qwjtdm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31pfttrv3lq42srrytg5h7qwjtdm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfttrv3lq42srrytg5h7qwjtdm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pfttrv3lq42srrytg5h7qwjtdm&redirect=true)
